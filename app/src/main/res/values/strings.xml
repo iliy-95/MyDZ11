@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MyDZ11</string>
+    <string name="snackbar">SnackBar</string>
+    <string name="alert_dialog_1">guigyu</string>
+    <string name="exclamation">Вы собираетесь удалить выбранный фаил</string>
+    <string name="message">Удалить фаил?</string>
+    <string name="yes">da</string>
+    <string name="no">net</string>
+    <string name="alert_dialog">s</string>
 </resources>
